@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hm5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="dash">Dash</string>
+    <string name="notification">Notification</string>
+    <string name="hello_blank_fragment_notification">Notification</string>
+    <string name="hello_blank_fragment_dash">Dash</string>
+</resources>
